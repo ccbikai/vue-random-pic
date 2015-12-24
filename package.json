@@ -1,0 +1,22 @@
+{
+  "name": "vue-random-pic",
+  "version": "1.0.0",
+  "description": "vue-random-pic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccbikai/vue-random-pic.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "ccbikai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccbikai/vue-random-pic/issues"
+  },
+  "homepage": "https://github.com/ccbikai/vue-random-pic#readme"
+}
